@@ -21,8 +21,8 @@ This document explains the what is Mini App, and discusses the possible standard
 
 Possible standardization points:
 * Network status
-* ***Network HTTP***
-* ***Network WebSocket***
+* <font color=red>Network HTTP</font>
+* <font color=red>Network WebSocket</font>
 
 Relevant spec:
 * [Network Information API](https://wicg.github.io/netinfo/)
@@ -32,8 +32,8 @@ Relevant spec:
 Possible standardization points:
 * Vibration
 * Clipboard
-* ***Screen brightness***
-* ***Phone call***
+* <font color=red>Screen brightness</font>
+* <font color=red>Phone call</font>
 
 Relevant spec:
 * [Vibration API](https://www.w3.org/TR/vibration/)
@@ -42,10 +42,10 @@ Relevant spec:
 ### Media
 
 Possible standardization points:
-* ***Image: choose image from local album, take a image using camera, image preview, save image to local album, compress image***
+* <font color=red>Image: choose image from local album, take a image using camera, image preview, save image to local album, compress image</font>
 * Audio: play, pause, stop
-* ***Video: play, pause, stop, choose video from local album, save video to local album***
-* ***Recorder***
+* <font color=red>Video: play, pause, stop, choose video from local album, save video to local album</font>
+* <font color=red>Recorder</font>
 
 Relevant spec:
 * [Web Audio API](https://www.w3.org/TR/2018/CR-webaudio-20180918/)
