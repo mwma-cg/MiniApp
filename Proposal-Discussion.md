@@ -19,7 +19,7 @@ This document explains the what is Mini App, and discusses the possible standard
 
 ### Network
 
-Possible standardization points:
+Possible standardization contents:
 * Network status
 * Network HTTP
 * Network WebSocket
@@ -29,7 +29,7 @@ Relevant spec:
 
 ### Device
 
-Possible standardization points:
+Possible standardization contents:
 * Vibration
 * Clipboard
 * Screen brightness
@@ -41,7 +41,7 @@ Relevant spec:
 
 ### Media
 
-Possible standardization points:
+Possible standardization contents:
 * Image: choose image from local album, take a image using camera, image preview, save image to local album, compress image
 * Audio: play, pause, stop
 * Video: play, pause, stop, choose video from local album, save video to local album
@@ -53,7 +53,7 @@ Relevant spec:
 
 ### Location
 
-Possible standardization points:
+Possible standardization contents:
 * Get location
 
 Relevant spec:
@@ -62,7 +62,7 @@ Relevant spec:
 
 ### Storage/File
 
-Possible standardization points:
+Possible standardization contents:
 * File: save file, get file info, get saved file list, remove saved file
 * Local Storage: get storage, set storage, remove storage, etc.
 
