@@ -47,6 +47,10 @@ Possible standardization points:
 * Video: play, pause, stop, choose video from local album, save video to local album
 * Recorder
 
+Relevant spec:
+* [Web Audio API](https://www.w3.org/TR/2018/CR-webaudio-20180918/)
+* [Audio Output Devices API](https://www.w3.org/TR/2017/CR-audio-output-20171003/)
+
 ### Location
 
 Possible standardization points:
