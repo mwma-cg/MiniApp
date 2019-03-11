@@ -15,7 +15,7 @@ This document explains the what is Mini App, and discusses the possible standard
 * High cost to developers, having to maintain multiple codes
 * Cause fragmentation
 
-## Possible points that can be standardized
+## Possible contents that can be standardized
 
 ### Network
 
