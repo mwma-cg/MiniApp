@@ -45,7 +45,7 @@ Possible standardization contents:
 * Image: choose image from local album, take a image using camera, image preview, save image to local album, compress image
 * Audio: play, pause, stop
 * Video: play, pause, stop, choose video from local album, save video to local album
-* <font color=red>Recorder</font>
+* Recorder
 
 Relevant spec:
 * [Web Audio API](https://www.w3.org/TR/2018/CR-webaudio-20180918/)
